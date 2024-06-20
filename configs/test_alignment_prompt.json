@@ -1,0 +1,2098 @@
+[
+  {
+    "prompt_id": "45",
+    "prompt": "sketch, art line anime butterfly, goddess highschool girl, psytrance",
+    "result_info": {
+      "Object": "goddess highschool girl;",
+      "Count": "goddess highschool girl: a;",
+      "Color": "none",
+      "Style": "sketch; art line anime butterfly; psytrance;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(goddess highschool girl;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(goddess highschool girl: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(sketch; art line anime butterfly; psytrance;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "628",
+    "prompt": "90's, Hong Kong, Realistic, Buildings, Urban",
+    "result_info": {
+      "Object": "Hong Kong urban buildings",
+      "Count": "Hong Kong urban buildings: some;",
+      "Color": "none;",
+      "Style": "realistic;",
+      "Spatial": "none;",
+      "Action": "none;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Hong Kong urban buildings) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Hong Kong urban buildings: some;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(realistic;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "525",
+    "prompt": "The elephant was standing in the center of the room, with the bird to its left.",
+    "result_info": {
+      "Object": "elephant; bird;",
+      "Count": "elephant: a; bird: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "bird: stood on the left of the elephant; elephant: in the middle of the room;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(elephant; bird;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(elephant: a; bird: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(bird: stood on the left of the elephant; elephant: in the middle of the room;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "974",
+    "prompt": "Static shock, Cool movie poster, full imagine, HD ultrarealistic",
+    "result_info": {
+      "Object": "Cool movie poster;",
+      "Count": "Cool movie poster: a;",
+      "Color": "none;",
+      "Style": "full imagine; HD ultrarealistic;",
+      "Spatial": "none;",
+      "Action": "none;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Cool movie poster;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Cool movie poster: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(full imagine; HD ultrarealistic;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "512",
+    "prompt": "two birds are perched atop a fence, chirping and pecking at three carrots placed in front of them.",
+    "result_info": {
+      "Object": " birds; fence; carrots",
+      "Count": " birds: two; fence: a; carrots: three",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "birds: on the fence; carrots: in front of the birds",
+      "Action": "birds: birds is chirping and pecking"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( birds; fence; carrots) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( birds: two; fence: a; carrots: three) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(birds: on the fence; carrots: in front of the birds) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(birds: birds is chirping and pecking) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1006",
+    "prompt": "crochet sweater, creative, peach and coral colors, highly realistic",
+    "result_info": {
+      "Object": "crochet sweater;",
+      "Count": "none",
+      "Color": "crochet sweater: peach and coral colors;",
+      "Style": "creative and highly realistic;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(crochet sweater;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(crochet sweater: peach and coral colors;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(creative and highly realistic;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "979",
+    "prompt": "a large, brown bear is slowly walking through a forest, sniffing the air and searching for food.",
+    "result_info": {
+      "Object": "brown bear; forest; ",
+      "Count": "brown bear: a; forest: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "a large brown bear is slowly walking through a forest, sniffing the air and searching for food;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(brown bear; forest; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(brown bear: a; forest: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(a large brown bear is slowly walking through a forest, sniffing the air and searching for food;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "151",
+    "prompt": "two broccoli plants are growing in front of three red stop signs on the side of a street.",
+    "result_info": {
+      "Object": "broccoli; stop sign; ",
+      "Count": "stop sign: three; broccoli: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two broccoli plants: plant in front of three red stop signs;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(broccoli; stop sign; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(stop sign: three; broccoli: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two broccoli plants: plant in front of three red stop signs;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "239",
+    "prompt": "oil painting, buddha, cubism, prisms, mosaic 4k",
+    "result_info": {
+      "Object": "oil painting; buddha;",
+      "Count": "oil painting: a; buddha: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(oil painting; buddha;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(oil painting: a; buddha: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right."
+    }
+  },
+  {
+    "prompt_id": "99",
+    "prompt": "two refrigerators stand side-by-side in a kitchen, with two potted plants on either side of them.",
+    "result_info": {
+      "Object": "refrigerators; potted plants; ",
+      "Count": "refrigerators: two; potted plants: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "refrigerators: side-by-side in a kitchen; potted plants: on either side of refrigerators;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(refrigerators; potted plants; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(refrigerators: two; potted plants: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(refrigerators: side-by-side in a kitchen; potted plants: on either side of refrigerators;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "388",
+    "prompt": "two horses are standing in a grassy field near three fire hydrants, their tails swishing lazily.",
+    "result_info": {
+      "Object": "horses; fire hydrants; grassy; ",
+      "Count": "horses: two; fire hydrants: three; grassy: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "two horses: standing in the grass, wagging their tails;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(horses; fire hydrants; grassy; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(horses: two; fire hydrants: three; grassy: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two horses: standing in the grass, wagging their tails;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "95",
+    "prompt": "Super Saiyan Aubrey Plaza, in the style of Dragon Ball Z, anime, detailed",
+    "result_info": {
+      "Object": "Super Saiyan Aubrey Plaza;",
+      "Count": "Super Saiyan Aubrey Plaza: a;",
+      "Color": "none",
+      "Style": "in the style of Dragon Ball Z, anime, detailed;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Super Saiyan Aubrey Plaza;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Super Saiyan Aubrey Plaza: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(in the style of Dragon Ball Z, anime, detailed;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "608",
+    "prompt": "three baseball bats and two baseball gloves are lying on the ground in a grassy field, ready to be used by a group of excited children.",
+    "result_info": {
+      "Object": "baseball bats; baseball gloves; field; children;",
+      "Count": "baseball bats: three; baseball gloves: two; field: a; children: a group;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "baseball bats and baseball gloves: on the ground in a grassy field;",
+      "Action": "baseball bats and baseball gloves  are lying;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(baseball bats; baseball gloves; field; children;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(baseball bats: three; baseball gloves: two; field: a; children: a group;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(baseball bats and baseball gloves: on the ground in a grassy field;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(baseball bats and baseball gloves  are lying;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "389",
+    "prompt": "concept art, anime girl, coloring book template, black and white, intricate",
+    "result_info": {
+      "Object": "anime girl; coloring book template;",
+      "Count": "none",
+      "Color": "anime girl: black and white;",
+      "Style": "concept art;",
+      "Spatial": "anime girl: on the coloring book template;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(anime girl; coloring book template;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(anime girl: black and white;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(concept art;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(anime girl: on the coloring book template;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1187",
+    "prompt": "three bananas are sitting on the counter, while three more are lying next to them on the floor.",
+    "result_info": {
+      "Object": "bananas; counter; floor; ",
+      "Count": "bananas: six; counter: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three bananas: on the counter; other bananas; next to the counter and on the floor; ",
+      "Action": "bananas are sitting and lying; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(bananas; counter; floor; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(bananas: six; counter: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three bananas: on the counter; other bananas; next to the counter and on the floor; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(bananas are sitting and lying; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1371",
+    "prompt": "three benches are arranged in a triangle around three bottles, which are filled with different colored liquids.",
+    "result_info": {
+      "Object": "benches; bottles; liquids;",
+      "Count": "benches: three; bottles: three; ",
+      "Color": "liquids: different colored;",
+      "Style": "none",
+      "Spatial": "liquids: in the bottles; bottles: near benches; ",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(benches; bottles; liquids;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(benches: three; bottles: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(liquids: different colored;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(liquids: in the bottles; bottles: near benches; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1425",
+    "prompt": "three knives are laid out on a kitchen counter next to two microwaves, one of which is beeping to indicate that food is done cooking.",
+    "result_info": {
+      "Object": " knives; microwaves;",
+      "Count": " knives: three; microwaves: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three knives: on a kitchen counter next to two microwaves;",
+      "Action": "one of microwave: beeping to indicate that food is done cooking;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( knives; microwaves;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( knives: three; microwaves: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three knives: on a kitchen counter next to two microwaves;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(one of microwave: beeping to indicate that food is done cooking;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1204",
+    "prompt": "three toilets and three stop signs line a busy street corner, creating a unique urban landscape.",
+    "result_info": {
+      "Object": "toilet; stop sign; ",
+      "Count": "toilet: three; stop sign: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "toilets and stop signs: are next to a busy street corner,creating a unique urban landscape;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(toilet; stop sign; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(toilet: three; stop sign: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(toilets and stop signs: are next to a busy street corner,creating a unique urban landscape;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "901",
+    "prompt": "two apples are sitting in a kitchen next to three microwaves, waiting to be cooked or eaten.",
+    "result_info": {
+      "Object": "apples;  microwaves",
+      "Count": "apples: two ;  microwaves: three",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "apples: next to three microwaves",
+      "Action": "apples:  waiting to be cooked or eaten; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(apples;  microwaves) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(apples: two ;  microwaves: three) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(apples: next to three microwaves) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(apples:  waiting to be cooked or eaten; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "924",
+    "prompt": "two ovens are filled with trays of freshly-baked donuts, their sweet scent filling the air and tempting the three people in the room.",
+    "result_info": {
+      "Object": "ovens; trays; donuts; people; room;",
+      "Count": "ovens: two; people: three; room: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "donuts: on the trays; trays: in the ovens; people: near the ovens;  ovens and people: in the room;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(ovens; trays; donuts; people; room;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(ovens: two; people: three; room: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(donuts: on the trays; trays: in the ovens; people: near the ovens;  ovens and people: in the room;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1332",
+    "prompt": "two cows are grazing in a meadow as two trucks drive by on a nearby road.",
+    "result_info": {
+      "Object": "cows; meadow; trucks; road;",
+      "Count": "cows: two; meadow: a; trucks: two; road: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "cows: in the meadow; trucks: on the road; road: near by the meadow;",
+      "Action": "cows are grazing; trucks are drive;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cows; meadow; trucks; road;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cows: two; meadow: a; trucks: two; road: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(cows: in the meadow; trucks: on the road; road: near by the meadow;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(cows are grazing; trucks are drive;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1436",
+    "prompt": "three cars are parked side by side in a parking lot, each one filled with three passengers.",
+    "result_info": {
+      "Object": "parking lot; cars; passengers",
+      "Count": "car: three; passengers: three; parking lot:a",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "parking lot: side by side",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(parking lot; cars; passengers) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(car: three; passengers: three; parking lot:a) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(parking lot: side by side) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1206",
+    "prompt": "two wine glasses filled with a deep red wine sit on a wooden table, the light from the window reflecting off their smooth surfaces.",
+    "result_info": {
+      "Object": "wine glasses; wooden table; wine;",
+      "Count": "wine glasses: two; wooden table: a;",
+      "Color": "wine: red;",
+      "Style": "none",
+      "Spatial": "two wine glasses: with a deep red wine and on a wooden table; ",
+      "Action": "two wine glasses: two wine glasses filled with a deep red wine; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(wine glasses; wooden table; wine;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(wine glasses: two; wooden table: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(wine: red;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two wine glasses: with a deep red wine and on a wooden table; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two wine glasses: two wine glasses filled with a deep red wine; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "534",
+    "prompt": "two beds and two sinks are situated in a cozy bedroom, creating a comfortable and inviting atmosphere.",
+    "result_info": {
+      "Object": "beds; sinks; bedroom;",
+      "Count": "beds: two; sinks: two; bedroom: a;",
+      "Color": "none",
+      "Style": "comfortable and inviting;",
+      "Spatial": "sinks: across from the beds; beds: side-by-side in the bedroom;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(beds; sinks; bedroom;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(beds: two; sinks: two; bedroom: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(comfortable and inviting;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(sinks: across from the beds; beds: side-by-side in the bedroom;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "318",
+    "prompt": "a single silver spoon is laying on a white plate on a wooden table, reflecting the light from the sun streaming in through the window.",
+    "result_info": {
+      "Object": "silver spoon; plate; wooden table; window",
+      "Count": "silver spoon: a; plate: a; wooden table: a; window: a;",
+      "Color": "silver spoon: silver; plate: white; ",
+      "Style": "none",
+      "Spatial": "wooden table: near by the window; silver spoon: on the plate on the wooden table;",
+      "Action": "spoon is laying;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(silver spoon; plate; wooden table; window) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(silver spoon: a; plate: a; wooden table: a; window: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(silver spoon: silver; plate: white; ) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(wooden table: near by the window; silver spoon: on the plate on the wooden table;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(spoon is laying;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "914",
+    "prompt": "The purple-haired girl sitting on the car, night, city background,",
+    "result_info": {
+      "Object": "girl; car;",
+      "Count": "girl: a; car: a;",
+      "Color": "girl: purple-haired;",
+      "Style": "none",
+      "Spatial": "girl: sitting on the car;",
+      "Action": "girl is sitting;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(girl; car;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(girl: a; car: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(girl: purple-haired;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(girl: sitting on the car;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(girl is sitting;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "42",
+    "prompt": "two beds, side by side, with fluffy white comforters and pillows, sit in a sunlit bedroom, waiting to be slept in.",
+    "result_info": {
+      "Object": "beds; comforters; pillows;",
+      "Count": "beds: two; comforters: some; pillows: some;",
+      "Color": "comforters: white; pillows: white",
+      "Style": "none",
+      "Spatial": "beds: side by side; comforters: sit in a sunlit bedroom and next to pillows;",
+      "Action": "beds: beds waiting to be slept in"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(beds; comforters; pillows;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(beds: two; comforters: some; pillows: some;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(comforters: white; pillows: white) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(beds: side by side; comforters: sit in a sunlit bedroom and next to pillows;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(beds: beds waiting to be slept in) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "570",
+    "prompt": "two skiers are zipping down a powdery mountain slope, their skis carving graceful arcs in the snow.",
+    "result_info": {
+      "Object": "skiers; mountain slope; skis;",
+      "Count": "skiers: two; mountain slope: a;",
+      "Color": "mountain slope: powdery;",
+      "Style": "none",
+      "Spatial": "skiers: on skis; skis: on the mountain slope;",
+      "Action": "skiers are zipping down;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(skiers; mountain slope; skis;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(skiers: two; mountain slope: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(mountain slope: powdery;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(skiers: on skis; skis: on the mountain slope;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(skiers are zipping down;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "557",
+    "prompt": "comic style Broccoli Rabe character, Pixar, Disney, white background",
+    "result_info": {
+      "Object": "Broccoli Rabe character; Pixar, Disney; background;",
+      "Count": "Broccoli Rabe character: a; Pixar, Disney: a; background: a;",
+      "Color": "background: white;",
+      "Style": "comic style",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Broccoli Rabe character; Pixar, Disney; background;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Broccoli Rabe character: a; Pixar, Disney: a; background: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(background: white;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(comic style) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "498",
+    "prompt": "two people are sitting in two chairs, each holding a tennis racket and discussing their strategy for the upcoming match.",
+    "result_info": {
+      "Object": "people; chairs; tennis racket; ",
+      "Count": "people: two; chairs: two; tennis racket: two; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "people: sitting on the chairs; tennis racket: in people hands; ",
+      "Action": "people are sitting; people are holding; people are discussing; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people; chairs; tennis racket; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people: two; chairs: two; tennis racket: two; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(people: sitting on the chairs; tennis racket: in people hands; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(people are sitting; people are holding; people are discussing; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "357",
+    "prompt": "underwater ,bottom of lake,vector,realistic illustration,vector,",
+    "result_info": {
+      "Object": "underwater; bottom of lake;",
+      "Count": "underwater: a; bottom of lake: a;",
+      "Color": "none;",
+      "Style": "vector; realistic illustration;",
+      "Spatial": "none;",
+      "Action": "none;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(underwater; bottom of lake;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(underwater: a; bottom of lake: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(vector; realistic illustration;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "892",
+    "prompt": "a young girl is walking down the street with a bright pink backpack on her back, filled with books and other supplies for school.",
+    "result_info": {
+      "Object": "young girl; backpack; books; other supplies for school;",
+      "Count": "young girl: a; backpack: a; books: some; other supplies for school: some;",
+      "Color": "backpack: bright pink; ",
+      "Style": "none",
+      "Spatial": "young girl: on the street; bright pink backpack: on girl's back; books and other supplies: in the backpack; ",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(young girl; backpack; books; other supplies for school;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(young girl: a; backpack: a; books: some; other supplies for school: some;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(backpack: bright pink; ) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(young girl: on the street; bright pink backpack: on girl's back; books and other supplies: in the backpack; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1284",
+    "prompt": "two cyclists ride side-by-side down a winding country road, the wind blowing through their hair and the sun shining down on them.",
+    "result_info": {
+      "Object": "cyclists; country road;",
+      "Count": "cyclists: two; country road: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "cyclists: side-by-side; country road: under the cyclists;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cyclists; country road;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cyclists: two; country road: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(cyclists: side-by-side; country road: under the cyclists;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "548",
+    "prompt": "snowflake crystal castle, photorealistic, hyper detailed, double exposure",
+    "result_info": {
+      "Object": "snowflake crystal castle; ",
+      "Count": "none",
+      "Color": "none",
+      "Style": "photorealistic and hyper detailed; ",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(snowflake crystal castle; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(photorealistic and hyper detailed; ) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "784",
+    "prompt": "Spider-Man villain, The Green goblin, steampunk, HD ultrarealistic",
+    "result_info": {
+      "Object": "Spider-Man; goblin;",
+      "Count": "Spider-Man: a; goblin: a;",
+      "Color": "goblin: green",
+      "Style": "steampunk; HD ultrarealistic;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Spider-Man; goblin;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Spider-Man: a; goblin: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(goblin: green) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(steampunk; HD ultrarealistic;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "348",
+    "prompt": "two beds are placed side-by-side in a cozy bedroom, with colorful quilts and pillows scattered across them.",
+    "result_info": {
+      "Object": "beds; quilts; pillows",
+      "Count": "beds: two; quilts:two; pillow: several",
+      "Color": "quilts: colorful; pillows: colorful",
+      "Style": "none",
+      "Spatial": "beds: placed side-by-side in a cozy bedroom; quilts: beside pillows and scattered across bed",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(beds; quilts; pillows) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(beds: two; quilts:two; pillow: several) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(quilts: colorful; pillows: colorful) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(beds: placed side-by-side in a cozy bedroom; quilts: beside pillows and scattered across bed) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "713",
+    "prompt": "two people are sitting in a room with two apples and two hair dryers, one person drying their hair with one of the hair dryers while the other person is eating one of the apples",
+    "result_info": {
+      "Object": "people; apples; hair dryers;",
+      "Count": "people: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two people:  in a room;  ",
+      "Action": "one person: one person drying their hair; other person: other person is eating one of the apples;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people; apples; hair dryers;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two people:  in a room;  ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(one person: one person drying their hair; other person: other person is eating one of the apples;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "647",
+    "prompt": "a white refrigerator hums in the corner of the kitchen, its shelves filled with food and drinks.",
+    "result_info": {
+      "Object": "refrigerator; drink; food; shelves; kitchen;",
+      "Count": "refrigerator: a; drink: a; food: a; shelves: a; kitchen: a;",
+      "Color": "refrigerator: white;",
+      "Style": "none",
+      "Spatial": "kitchen: there is a white refrigerator next to a shelf filled with food and drinks;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(refrigerator; drink; food; shelves; kitchen;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(refrigerator: a; drink: a; food: a; shelves: a; kitchen: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(refrigerator: white;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(kitchen: there is a white refrigerator next to a shelf filled with food and drinks;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1091",
+    "prompt": "girl in blue dancing alone in the park, psychedelic, 1967, summer of love",
+    "result_info": {
+      "Object": "girl; park;",
+      "Count": "girl: a; park: a; ",
+      "Color": "girl: blue; ",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "girl: dancing in the park;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(girl; park;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(girl: a; park: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(girl: blue; ) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(girl: dancing in the park;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "416",
+    "prompt": "two laptops and two knives are laid out on a table, their surfaces reflecting the light from the overhead lamp.",
+    "result_info": {
+      "Object": "laptops; knives; ",
+      "Count": "laptops: two; knives: two; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two laptops and two knives: on a table; ",
+      "Action": "surfaces: surfaces reflecting the light from the overhead lamp;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(laptops; knives; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(laptops: two; knives: two; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two laptops and two knives: on a table; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(surfaces: surfaces reflecting the light from the overhead lamp;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "859",
+    "prompt": "a surfer is standing on a beach, holding a bright blue surfboard with white stripes and a yellow flower design.",
+    "result_info": {
+      "Object": "surfer; beach; surfboard; stripes; flower design;",
+      "Count": "surfer: a; beach: a; surfboard: a;",
+      "Color": "surfboard: bright blue and white and yellow;",
+      "Style": "none",
+      "Spatial": "stripes and flower design: on the surfboard; surfboard: in surfer hand; surfer: standing on the beach;",
+      "Action": "surfer is standing;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(surfer; beach; surfboard; stripes; flower design;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(surfer: a; beach: a; surfboard: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(surfboard: bright blue and white and yellow;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(stripes and flower design: on the surfboard; surfboard: in surfer hand; surfer: standing on the beach;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(surfer is standing;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "706",
+    "prompt": "The car drove over the white boat, its tires leaving a trail of ripples in the water.",
+    "result_info": {
+      "Object": "car; boat; tire;",
+      "Count": "car: a; boat: a; tire: a;",
+      "Color": "boat: white",
+      "Style": "none",
+      "Spatial": "car: above the white boat, the tires leave ripples on the water;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(car; boat; tire;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(car: a; boat: a; tire: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(boat: white) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(car: above the white boat, the tires leave ripples on the water;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "779",
+    "prompt": "cityline, sao paulo, blue sky, fireworks, night sky, dramatic lighting",
+    "result_info": {
+      "Object": "sky; fireworks;",
+      "Count": "sky: a; fireworks: a;",
+      "Color": "sky: blue;",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(sky; fireworks;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(sky: a; fireworks: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(sky: blue;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right."
+    }
+  },
+  {
+    "prompt_id": "1484",
+    "prompt": "two couches are facing each other in a cozy living room, surrounded by bookshelves and a warm fireplace.",
+    "result_info": {
+      "Object": "couches; living room; bookshelves; fireplace;",
+      "Count": "couches: two; living room: a; fireplace: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "couches: placed face to face in the living room; fireplace: behind the couches; bookshelves: around the couches; ",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(couches; living room; bookshelves; fireplace;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(couches: two; living room: a; fireplace: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(couches: placed face to face in the living room; fireplace: behind the couches; bookshelves: around the couches; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "225",
+    "prompt": "ghibli style, flat illustration, in city, peaceful, UHD",
+    "result_info": {
+      "Object": "none",
+      "Count": "none",
+      "Color": "none",
+      "Style": "ghibli style; flat illustration;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Style": "<image>\nDoes the given image correctly reflect the style(ghibli style; flat illustration;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "1143",
+    "prompt": "three zebras are standing around three tennis rackets, which are propped up against a fence in the middle of a grassy field.",
+    "result_info": {
+      "Object": "zebras; tennis rackets; fence; grassy field; ",
+      "Count": "zebras: three; tennis rackets: three; fence: a; grassy field: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "fence: in the middle of the grassy field; tennis rackets: propped up against the fence; zebras: around the tennis rackets;",
+      "Action": "zebras are standing; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(zebras; tennis rackets; fence; grassy field; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(zebras: three; tennis rackets: three; fence: a; grassy field: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(fence: in the middle of the grassy field; tennis rackets: propped up against the fence; zebras: around the tennis rackets;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(zebras are standing; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "675",
+    "prompt": "icon design, four special tools, circle pins, cardbox style",
+    "result_info": {
+      "Object": "none",
+      "Count": "none",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {}
+  },
+  {
+    "prompt_id": "1286",
+    "prompt": "The bicycle was suspended in the air above the boat, its wheels spinning slowly in the breeze.",
+    "result_info": {
+      "Object": "bicycle; boat; wheels; ",
+      "Count": "bicycle: a; boat: a; wheels: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "bicycle: above; ",
+      "Action": "wheels: spinning slowly; bicycle: suspended;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(bicycle; boat; wheels; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(bicycle: a; boat: a; wheels: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(bicycle: above; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(wheels: spinning slowly; bicycle: suspended;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "632",
+    "prompt": "two surfboards and two tennis rackets lay on the beach, ready to be used by the two friends who are about to embark on their day of fun.",
+    "result_info": {
+      "Object": "surfboards; tennis rackets; friends;",
+      "Count": "surfboards: two; tennis rackets: two; friends: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two surfboards and two tennis rackets: on the beach;   ",
+      "Action": "two surfboards and two tennis rackets: two surfboards and two tennis rackets lay;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(surfboards; tennis rackets; friends;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(surfboards: two; tennis rackets: two; friends: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two surfboards and two tennis rackets: on the beach;   ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two surfboards and two tennis rackets: two surfboards and two tennis rackets lay;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "94",
+    "prompt": "large sailing ship, black and gold, 1600s, on the water",
+    "result_info": {
+      "Object": "large sailing ship;",
+      "Count": "large sailing ship: a;",
+      "Color": "black and gold;",
+      "Style": "1600s, on the water;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(large sailing ship;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(large sailing ship: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(black and gold;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(1600s, on the water;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "134",
+    "prompt": "flyer design, minimalist, white background, abstract::2",
+    "result_info": {
+      "Object": "flyer;",
+      "Count": "none",
+      "Color": "none",
+      "Style": "minimalist and abstract;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(flyer;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(minimalist and abstract;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "72",
+    "prompt": "christmas tree decorated with a lot of pentacles, Yule, holy, 2D style",
+    "result_info": {
+      "Object": "christmas tree; pentacles;",
+      "Count": "christmas tree: a; pentacles: some;",
+      "Color": "none;",
+      "Style": "Yule; holy; 2D style;",
+      "Spatial": "christmas tree: with a lot of pentacles;",
+      "Action": "none;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(christmas tree; pentacles;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(christmas tree: a; pentacles: some;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(Yule; holy; 2D style;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(christmas tree: with a lot of pentacles;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "423",
+    "prompt": "a freshly-made turkey sandwich with lettuce, tomato, and mayonnaise sits on a plate next to a glass of iced tea.",
+    "result_info": {
+      "Object": "plate;  turkey sandwich; lettuce; tomato; mayonnaise",
+      "Count": "plate: a;  turkey sandwich: a; lettuce: a; tomato: a; mayonnaise: a",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "plate: under the turkey sandwich; lettuce: beside the turkey sandwich; tomato: beside the turkey sandwich; mayonnaise: beside the turkey sandwich; iced tea: next to plate",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(plate;  turkey sandwich; lettuce; tomato; mayonnaise) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(plate: a;  turkey sandwich: a; lettuce: a; tomato: a; mayonnaise: a) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(plate: under the turkey sandwich; lettuce: beside the turkey sandwich; tomato: beside the turkey sandwich; mayonnaise: beside the turkey sandwich; iced tea: next to plate) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1144",
+    "prompt": "three vases filled with colorful flowers sit atop a wooden table, while three teddy bears with big smiles look on from nearby chairs.",
+    "result_info": {
+      "Object": "vases; wooden table; teddy bears; chair; flower;",
+      "Count": "vases: three; wooden table: a; teddy bears: three; chair: a; flower: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "chair: three teddy bears sit on it; wooden table: Three vases filled with colorful flowers are placed on it;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(vases; wooden table; teddy bears; chair; flower;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(vases: three; wooden table: a; teddy bears: three; chair: a; flower: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(chair: three teddy bears sit on it; wooden table: Three vases filled with colorful flowers are placed on it;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1486",
+    "prompt": "two friends are toasting with wine glasses while enjoying two pizzas in a cozy italian restaurant.",
+    "result_info": {
+      "Object": "friends; wine glasses; pizzas;",
+      "Count": "friends: two; wine glasses: two; pizzas: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two friends: in a cozy italian restaurant;",
+      "Action": "two friends: two friends enjoying two pizzas and toasting with wine glasses;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(friends; wine glasses; pizzas;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(friends: two; wine glasses: two; pizzas: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two friends: in a cozy italian restaurant;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two friends: two friends enjoying two pizzas and toasting with wine glasses;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "338",
+    "prompt": "three parking meters are lined up in a row, with two laptops sitting on top of them.",
+    "result_info": {
+      "Object": "parking meter; laptops;",
+      "Count": "parking meter: three; laptops: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three parking meters: two laptops on them;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(parking meter; laptops;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(parking meter: three; laptops: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three parking meters: two laptops on them;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "807",
+    "prompt": "two dining tables with two vases filled with fresh flowers are set up in the center of the room, creating a cozy atmosphere.",
+    "result_info": {
+      "Object": "dining tables; vases;",
+      "Count": "dining tables: two; vases: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "vases: filled with fresh flowers; two dining tables with two vases: in the center of the room;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(dining tables; vases;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(dining tables: two; vases: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(vases: filled with fresh flowers; two dining tables with two vases: in the center of the room;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1124",
+    "prompt": "three toasters are lined up on a kitchen countertop, while three cars are parked in a driveway outside.",
+    "result_info": {
+      "Object": "toasters; cars; ",
+      "Count": "toasters: three; cars: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "toasters: on a kitchen countertop; cars: in a driveway outside",
+      "Action": "toasters: toasters are lined up; cars: cars are parked"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(toasters; cars; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(toasters: three; cars: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(toasters: on a kitchen countertop; cars: in a driveway outside) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(toasters: toasters are lined up; cars: cars are parked) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "729",
+    "prompt": "two zebra are standing in a line in front of three refrigerators, looking curiously at the contents inside.",
+    "result_info": {
+      "Object": "zebra; refrigerators; ",
+      "Count": "zebra: two; refrigerators: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "zebra: standing in a line in front of the refrigerators;",
+      "Action": "zebra are standing; zebra are looking;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(zebra; refrigerators; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(zebra: two; refrigerators: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(zebra: standing in a line in front of the refrigerators;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(zebra are standing; zebra are looking;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "182",
+    "prompt": "three couches are arranged around two clocks on the wall, creating a cozy yet organized living room.",
+    "result_info": {
+      "Object": "couches; clocks; living room;",
+      "Count": "couches: three; clocks: two; living room: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "living room: Three sofas surround two clocks on the wall;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(couches; clocks; living room;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(couches: three; clocks: two; living room: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(living room: Three sofas surround two clocks on the wall;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1410",
+    "prompt": "three horses grazing in a grassy meadow with three wine glasses sitting atop a nearby picnic blanket.",
+    "result_info": {
+      "Object": "horses; picnic blanket; wine glasses;",
+      "Count": "horses: three; picnic blanket: a; wine glasses: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "horses: in a grassy meadow with three wine glasses; wine glasses: nearby picnic blanket;",
+      "Action": "horses: horses grazing;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(horses; picnic blanket; wine glasses;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(horses: three; picnic blanket: a; wine glasses: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(horses: in a grassy meadow with three wine glasses; wine glasses: nearby picnic blanket;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(horses: horses grazing;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1234",
+    "prompt": "three motorcycles parked by a picnic table with two wine glasses sitting atop it, reflecting the setting sun.",
+    "result_info": {
+      "Object": "motorcycles; picnic table; wine glasses;",
+      "Count": "motorcycles: three; picnic table: a; wine glasses: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "motorcycles: parked on the left side of the picnic table; wine glasses: on the picnic table;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(motorcycles; picnic table; wine glasses;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(motorcycles: three; picnic table: a; wine glasses: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(motorcycles: parked on the left side of the picnic table; wine glasses: on the picnic table;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "912",
+    "prompt": "two skateboarders are enjoying a sunny day in the park, each with a cup of coffee in hand.",
+    "result_info": {
+      "Object": "skateboarders; park; cup; coffee; ",
+      "Count": "skateboarders: two; park: a; cup: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "coffee: in the cup; cup: in skateboarders hand; skateboarders: in the park;",
+      "Action": "skateboarders are enjoying; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(skateboarders; park; cup; coffee; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(skateboarders: two; park: a; cup: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(coffee: in the cup; cup: in skateboarders hand; skateboarders: in the park;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(skateboarders are enjoying; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1437",
+    "prompt": "two orange fruits are sitting on a grassy field, with a soccer ball, basketball, and baseball surrounding them.",
+    "result_info": {
+      "Object": "orange; soccer ball; basketball; baseball;",
+      "Count": "orange: two; soccer ball: a; basketball: a; baseball: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "orange: on a grassy field; soccer ball,basketball, and baseball: surrounding orange",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(orange; soccer ball; basketball; baseball;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(orange: two; soccer ball: a; basketball: a; baseball: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(orange: on a grassy field; soccer ball,basketball, and baseball: surrounding orange) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "263",
+    "prompt": "three laptops are spread out on a living room floor while two dogs curiously sniff around them.",
+    "result_info": {
+      "Object": "laptops; living room floor; dogs;",
+      "Count": "laptops: three; living room floor: a; dogs: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "laptops: on the living room floor; dogs: around the laptops; ",
+      "Action": "laptops are spread; dogs curiously; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(laptops; living room floor; dogs;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(laptops: three; living room floor: a; dogs: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(laptops: on the living room floor; dogs: around the laptops; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(laptops are spread; dogs curiously; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "728",
+    "prompt": "three toasters are lined up next to two parking meters, all glinting in the bright sunlight.",
+    "result_info": {
+      "Object": "toasters; parking meters;",
+      "Count": "toasters: three; parking meters: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "toasters: next to the parking meters; ",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(toasters; parking meters;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(toasters: three; parking meters: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(toasters: next to the parking meters; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "973",
+    "prompt": "The door on the left has a wooden frame and the window on the right has a metal frame.",
+    "result_info": {
+      "Object": "door; window; ",
+      "Count": "door: a; window: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "door: the left has a wooden frame; window: the right has a metal frame;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(door; window; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(door: a; window: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(door: the left has a wooden frame; window: the right has a metal frame;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "991",
+    "prompt": "The girl on the left is wearing a hat and the girl on the right is not wearing a hat.",
+    "result_info": {
+      "Object": "girl; hat;",
+      "Count": "girl: two; hat: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "hat: on the left girl's head; not wearing hat girl: on the right of the wearing hat girl;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(girl; hat;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(girl: two; hat: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(hat: on the left girl's head; not wearing hat girl: on the right of the wearing hat girl;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "112",
+    "prompt": "two spoons are scooping up hot dogs from a pan on the stove, sending the delicious smell of sizzling hot dogs wafting through the kitchen.",
+    "result_info": {
+      "Object": "spoons; hot dogs; stove; pan;",
+      "Count": "spoons: two; hot dogs: a; stove: a; pan: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "spoons: on the stove and in the kitchen;  hot dogs:  from a pan;",
+      "Action": "two spoons: two spoons are scooping up;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(spoons; hot dogs; stove; pan;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(spoons: two; hot dogs: a; stove: a; pan: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(spoons: on the stove and in the kitchen;  hot dogs:  from a pan;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two spoons: two spoons are scooping up;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "777",
+    "prompt": "three children are running around in the park, throwing two frisbees and chasing after three carrots.",
+    "result_info": {
+      "Object": "children; park; frisbees; carrots;",
+      "Count": "children: three; park: a; frisbees: two; carrots: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "children and frisbees and carrots: in the park; carrots: in front of the children; frisbees: top of the children head;",
+      "Action": "children are running; children are throwing; children are chasing;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(children; park; frisbees; carrots;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(children: three; park: a; frisbees: two; carrots: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(children and frisbees and carrots: in the park; carrots: in front of the children; frisbees: top of the children head;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(children are running; children are throwing; children are chasing;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1430",
+    "prompt": "three apples and three handbags are sitting on a table in a room with sunlight streaming in through the windows.",
+    "result_info": {
+      "Object": "apples; handbags; table; room; windows;",
+      "Count": "apples: three; handbags: three; table: a; room: a; windows: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "apples and handbags: on the table in the room; windows: near by the table;",
+      "Action": "apples and handbags are sitting; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(apples; handbags; table; room; windows;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(apples: three; handbags: three; table: a; room: a; windows: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(apples and handbags: on the table in the room; windows: near by the table;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(apples and handbags are sitting; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "90",
+    "prompt": "three teddy bears are playing together on the floor while three scissors are lying nearby on the carpet.",
+    "result_info": {
+      "Object": " teddy bears; floor; carpet; scissors; ",
+      "Count": " teddy bears: a; floor: a; carpet: a; scissors: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "Next to the teddy bear lay three pairs of scissors;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( teddy bears; floor; carpet; scissors; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( teddy bears: a; floor: a; carpet: a; scissors: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(Next to the teddy bear lay three pairs of scissors;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "25",
+    "prompt": "two books and two handbags are sitting on a wooden table in a cozy library, inviting readers to explore their contents.",
+    "result_info": {
+      "Object": "books; handbags; wooden table; library; ",
+      "Count": "books: two; handbags: two; wooden table: a; library: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "books and handbags: on the wooden table in the library; ",
+      "Action": "books and handbags are sitting; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(books; handbags; wooden table; library; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(books: two; handbags: two; wooden table: a; library: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(books and handbags: on the wooden table in the library; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(books and handbags are sitting; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "135",
+    "prompt": "two couches and two motorcycles sit side by side in a large garage, their shiny chrome and leather contrasting with each other.",
+    "result_info": {
+      "Object": "couches; motorcycles; ",
+      "Count": "couches: two; motorcycles: two; ",
+      "Color": "couches and motorcycles: shiny chrome and leather contrasting;",
+      "Style": "none",
+      "Spatial": "couches and motorcyles:  side by side in a large garage",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(couches; motorcycles; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(couches: two; motorcycles: two; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(couches and motorcycles: shiny chrome and leather contrasting;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(couches and motorcyles:  side by side in a large garage) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "96",
+    "prompt": "The screen on the phone is dimmer and the other screens on the tablets are brighter.",
+    "result_info": {
+      "Object": "phone ; on the tablets",
+      "Count": "none",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(phone ; on the tablets) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included."
+    }
+  },
+  {
+    "prompt_id": "580",
+    "prompt": "The building on the left has a modern design and the building on the right has a classic design.",
+    "result_info": {
+      "Object": " modern design building; classic design building",
+      "Count": " modern design building: a; classic design building: a",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "modern design building: on the left; classic design building: on the right",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( modern design building; classic design building) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( modern design building: a; classic design building: a) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(modern design building: on the left; classic design building: on the right) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1474",
+    "prompt": "two people walking with umbrellas in the rain, waiting for three traffic lights to turn green.",
+    "result_info": {
+      "Object": "people;traffic lights",
+      "Count": "people : two ;traffic lights: three ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "people: at the traffic lights",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people;traffic lights) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people : two ;traffic lights: three ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(people: at the traffic lights) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "873",
+    "prompt": "two cats are sitting side-by-side, each curiously sniffing and pawing at two broccoli heads that are placed in front of them.",
+    "result_info": {
+      "Object": "cats; broccoli; ",
+      "Count": "cats: two; broccoli: two; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "broccoli: in front of the cats; cats: sitting side-by-side; ",
+      "Action": "cats are sitting; cats are sniffing and pawing; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cats; broccoli; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cats: two; broccoli: two; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(broccoli: in front of the cats; cats: sitting side-by-side; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(cats are sitting; cats are sniffing and pawing; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1491",
+    "prompt": "woodcarved, high detail, engraving, hand, style of Jon Contino,",
+    "result_info": {
+      "Object": "woodcarved",
+      "Count": "woodcarved:a",
+      "Color": "none",
+      "Style": "Jon Contino,",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(woodcarved) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(woodcarved:a) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(Jon Contino,) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "481",
+    "prompt": "three cars are stopped at two consecutive stop signs, waiting for the light to turn green.",
+    "result_info": {
+      "Object": "cars; stop signs; ",
+      "Count": "cars: three; stop signs: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "three cars: stopped at a stop sign, waiting for a green light;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cars; stop signs; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cars: three; stop signs: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(three cars: stopped at a stop sign, waiting for a green light;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1276",
+    "prompt": "three chairs are arranged in a circle, and two birds are perched on the back of two of the chairs.",
+    "result_info": {
+      "Object": "chairs; birds;",
+      "Count": "chairs: three; birds: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "chairs: arranged in a circle; birds: on the back of two of the chairs",
+      "Action": "birds: birds are perched on"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(chairs; birds;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(chairs: three; birds: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(chairs: arranged in a circle; birds: on the back of two of the chairs) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(birds: birds are perched on) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1116",
+    "prompt": "two hot dogs are sitting inside a refrigerator with three other refrigerators in the same room.",
+    "result_info": {
+      "Object": "hot dogs; refrigerators; room; ",
+      "Count": "hot dogs: two; refrigerators: four; room: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "hot dogs: in the left refrigerator on the room; other refrigerators: on the right side of the left refrigerator;",
+      "Action": "hot dogs are sitting; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(hot dogs; refrigerators; room; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(hot dogs: two; refrigerators: four; room: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(hot dogs: in the left refrigerator on the room; other refrigerators: on the right side of the left refrigerator;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(hot dogs are sitting; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "629",
+    "prompt": "The cake on the left has more frosting and the cupcakes on the right have less frosting.",
+    "result_info": {
+      "Object": "cake; cupcakes;",
+      "Count": "cake: a; cupcakes: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "cake: the cupcake on the right has less icing than the cake on the left;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cake; cupcakes;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cake: a; cupcakes: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(cake: the cupcake on the right has less icing than the cake on the left;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "107",
+    "prompt": "one cake sits on a white plate in the center of a kitchen table, surrounded by colorful candles and streamers.",
+    "result_info": {
+      "Object": "cake; plate;  table; candles; streamers.",
+      "Count": "cake: a; plate: a;  table: a; candles:  several; streamers:  several",
+      "Color": "plate: white; candles and streamers: colorful",
+      "Style": "none",
+      "Spatial": "table: in the center of a kitchen;  plate: on the table; cake: sits on the plate; candles and streamers: surround the table",
+      "Action": "cake:  cake sits on a white plate"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cake; plate;  table; candles; streamers.) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cake: a; plate: a;  table: a; candles:  several; streamers:  several) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(plate: white; candles and streamers: colorful) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(table: in the center of a kitchen;  plate: on the table; cake: sits on the plate; candles and streamers: surround the table) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(cake:  cake sits on a white plate) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1106",
+    "prompt": "black and white sketch of spring japan street, anime style, , people, text",
+    "result_info": {
+      "Object": "japan street;",
+      "Count": "none",
+      "Color": "japan street: black and white; ",
+      "Style": "anime style;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(japan street;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(japan street: black and white; ) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(anime style;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "164",
+    "prompt": "three suitcases are lined up next to two airplanes on the tarmac, ready for passengers to board.",
+    "result_info": {
+      "Object": "suitcases; airplanes; tarmac;",
+      "Count": "suitcases: three; airplanes: two; tarmac: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "suitcases and airplanes:above the tarmac; suitcases: next to airplanes;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(suitcases; airplanes; tarmac;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(suitcases: three; airplanes: two; tarmac: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(suitcases and airplanes:above the tarmac; suitcases: next to airplanes;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "343",
+    "prompt": "three vases are placed on three different tables around a room, while three tvs are mounted on the walls in the same room.",
+    "result_info": {
+      "Object": "vases; room; tvs; tables;",
+      "Count": "vases: three; room: a; tvs: three; tables: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "room: there are three different tables with three vases on them and three televisions on the walls;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(vases; room; tvs; tables;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(vases: three; room: a; tvs: three; tables: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(room: there are three different tables with three vases on them and three televisions on the walls;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "574",
+    "prompt": "funny baboon eating a hamburger, vidid colors, blues, purples, reds, 3d, 8k",
+    "result_info": {
+      "Object": "hamburger; baboon;",
+      "Count": "hamburger: a; baboon: a;",
+      "Color": "hamburger: red; baboon: blue;",
+      "Style": "3d",
+      "Spatial": "none",
+      "Action": "baboon: eating a hamburger;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(hamburger; baboon;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(hamburger: a; baboon: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(hamburger: red; baboon: blue;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(3d) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(baboon: eating a hamburger;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "219",
+    "prompt": "two wine glasses sit atop a fire hydrant, while a second and third fire hydrant stand nearby.",
+    "result_info": {
+      "Object": "wine glasses; fire hydrant",
+      "Count": "wine glasses: two; fire hydrant: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two wine glasses: placed on a fire hydrant with two fire hydrants next to it;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(wine glasses; fire hydrant) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(wine glasses: two; fire hydrant: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two wine glasses: placed on a fire hydrant with two fire hydrants next to it;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1149",
+    "prompt": "a duck blind, detailed, clear lines, water color, white background",
+    "result_info": {
+      "Object": "duck blind;",
+      "Count": "duck blind: a;",
+      "Color": "none",
+      "Style": "detailed and clear lines and water color;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(duck blind;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(duck blind: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(detailed and clear lines and water color;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "1334",
+    "prompt": "three people are standing in the rain with two knives in hand and three umbrellas open above them.",
+    "result_info": {
+      "Object": "people; umbrella; knives;",
+      "Count": "people: three; umbrella: three; knives: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "three people: are standing in the rain with two knives in hand and three umbrellas open above them;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people; umbrella; knives;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people: three; umbrella: three; knives: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(three people: are standing in the rain with two knives in hand and three umbrellas open above them;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "413",
+    "prompt": "The woman on the left is wearing a hat and the woman on the right is not.",
+    "result_info": {
+      "Object": "woman; hat; ",
+      "Count": "woman: two; hat: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "the woman on the left is wearing a hat and the woman on the right is not;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(woman; hat; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(woman: two; hat: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(the woman on the left is wearing a hat and the woman on the right is not;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "537",
+    "prompt": "three microwaves and two laptops are lined up on a kitchen counter, ready to be used.",
+    "result_info": {
+      "Object": " microwaves;  laptops; kitchen counter",
+      "Count": " microwaves: three;  laptops: two; kitchen counter: a",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "microwaves: with laptops are lined up on a kitchen counter",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( microwaves;  laptops; kitchen counter) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( microwaves: three;  laptops: two; kitchen counter: a) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(microwaves: with laptops are lined up on a kitchen counter) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1327",
+    "prompt": "three carrots and three sports balls are lying on the grass in a park, ready to be picked up and played with.",
+    "result_info": {
+      "Object": "carrots; sports balls; ",
+      "Count": "carrots: three; sports balls: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three carrots and three sports balls: on the grass in a park;",
+      "Action": "three carrots and three sports balls: ready to be picked up and played with;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(carrots; sports balls; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(carrots: three; sports balls: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three carrots and three sports balls: on the grass in a park;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(three carrots and three sports balls: ready to be picked up and played with;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1260",
+    "prompt": "three giraffes are standing around two chairs in a grassy field, their long necks stretching up to the sky.",
+    "result_info": {
+      "Object": "giraffes; chairs; grassy field; necks; sky;",
+      "Count": "giraffes: three; chairs: two; grassy field: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "chairs: in the grassy field; giraffes: standing around the chairs;",
+      "Action": "giraffes are standing; giraffes long necks stretching up;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(giraffes; chairs; grassy field; necks; sky;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(giraffes: three; chairs: two; grassy field: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(chairs: in the grassy field; giraffes: standing around the chairs;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(giraffes are standing; giraffes long necks stretching up;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "114",
+    "prompt": "two potted plants sit in the corner of the room, while two dogs run around, barking and playing.",
+    "result_info": {
+      "Object": "potted piants; dogs;",
+      "Count": "potted piant: two; dogs: two;",
+      "Color": "none;",
+      "Style": "none;",
+      "Spatial": "potted plants: in the corner of the room; dogs: in the room;",
+      "Action": "dogs: dogs run around, barking and playing;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(potted piants; dogs;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(potted piant: two; dogs: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(potted plants: in the corner of the room; dogs: in the room;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(dogs: dogs run around, barking and playing;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "395",
+    "prompt": "three dogs are happily chasing each other around in the snow while three snowboarders zip by them, weaving in and out of the powdery white drifts.",
+    "result_info": {
+      "Object": "dog; snowboarders;",
+      "Count": "dog: three; snowboarders: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "Three dogs happily chase each other through the snow as three snowboarders glide past them;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(dog; snowboarders;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(dog: three; snowboarders: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(Three dogs happily chase each other through the snow as three snowboarders glide past them;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1309",
+    "prompt": "tokyo style, street with neon signs, rainy, hight details, photorealistic",
+    "result_info": {
+      "Object": "neon signs;",
+      "Count": "neon signs: a;",
+      "Color": "none",
+      "Style": "tokyo style; ",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(neon signs;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(neon signs: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(tokyo style; ) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "148",
+    "prompt": "two teddy bears are having a picnic in a meadow, surrounded by three toasters which are popping up slices of toast.",
+    "result_info": {
+      "Object": "teddy bears;  toasters;",
+      "Count": "teddy bears: two; toasters: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two teddy bears: in a meadow; toasters: surrounded by teddy bears;",
+      "Action": "two teddy bears: two teddy bears are having a picnic;three toasters: three toasters are popping up slices of toast;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(teddy bears;  toasters;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(teddy bears: two; toasters: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two teddy bears: in a meadow; toasters: surrounded by teddy bears;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(two teddy bears: two teddy bears are having a picnic;three toasters: three toasters are popping up slices of toast;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "636",
+    "prompt": "three beds are arranged in a row with two forks placed on the nightstands between them.",
+    "result_info": {
+      "Object": "bed; fork;  nightstands;",
+      "Count": "bed: three; fork: two; nightstands: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "The beds is placed side by side with two forks on the middle nightstand;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(bed; fork;  nightstands;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(bed: three; fork: two; nightstands: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(The beds is placed side by side with two forks on the middle nightstand;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "550",
+    "prompt": "The butterfly on the flower is colorful and the bee on the hive is black and yellow.",
+    "result_info": {
+      "Object": "butterfly; flower; bee; hive;",
+      "Count": "none",
+      "Color": "butterfly: colorful; bee: black and yellow;",
+      "Style": "none",
+      "Spatial": "butterfly: on the flower; bee: on the hive; flower: on the left side of the hive;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(butterfly; flower; bee; hive;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(butterfly: colorful; bee: black and yellow;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(butterfly: on the flower; bee: on the hive; flower: on the left side of the hive;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "538",
+    "prompt": "three umbrellas are propped up against three beds in a bedroom, providing shade from the sun streaming through the window.",
+    "result_info": {
+      "Object": "umbrellas; beds; ",
+      "Count": "umbrellas: three; beds: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three umbrellas: against three beds in a bedroom;",
+      "Action": "three beds: providing shade from the sun streaming through the window;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(umbrellas; beds; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(umbrellas: three; beds: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three umbrellas: against three beds in a bedroom;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(three beds: providing shade from the sun streaming through the window;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1412",
+    "prompt": "Ninja, shinobi, feudal japan, Torii, hyper realistic, 8K",
+    "result_info": {
+      "Object": "Ninja; shinobi; japan; Torii; ",
+      "Count": "none",
+      "Color": "none",
+      "Style": "hyper realistic; ",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Ninja; shinobi; japan; Torii; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(hyper realistic; ) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "852",
+    "prompt": "two beds and three skis are set up in a bedroom, with the skis leaned up against the wall and the beds pushed together to make a makeshift double bed.",
+    "result_info": {
+      "Object": "beds; skis;",
+      "Count": "beds: two; skis:three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two beds and three skis: in a bedroom; skis: against the wall; ",
+      "Action": "bed: bed pushed together to make a makeshift double bed;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(beds; skis;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(beds: two; skis:three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two beds and three skis: in a bedroom; skis: against the wall; ) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(bed: bed pushed together to make a makeshift double bed;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "106",
+    "prompt": "two forks are sitting on a table in front of two tvs that are playing different shows.",
+    "result_info": {
+      "Object": "forks; tvs;",
+      "Count": "forks: two; tvs: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "forks: on a table; tvs: in front of table;",
+      "Action": "tvs:  tvs are playing different shows; forks: forks are sitting on"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(forks; tvs;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(forks: two; tvs: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(forks: on a table; tvs: in front of table;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(tvs:  tvs are playing different shows; forks: forks are sitting on) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "322",
+    "prompt": "two toothbrushes are sitting on the counter next to three spoons that are arranged in a neat row.",
+    "result_info": {
+      "Object": "toothbrushes; counter; spoons;",
+      "Count": "toothbrushes: two; counter: a; spoons: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "toothbrushes: next to three spoons that are arranged in a neat row;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(toothbrushes; counter; spoons;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(toothbrushes: two; counter: a; spoons: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(toothbrushes: next to three spoons that are arranged in a neat row;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "558",
+    "prompt": "three cell phones are sitting on a table next to three vases filled with colorful flowers.",
+    "result_info": {
+      "Object": "cell phones; vases; flowers;",
+      "Count": "cell phones: three; vases: three; flowers: some;",
+      "Color": "flowers: colorful;",
+      "Style": "none",
+      "Spatial": "cell phones: on a table next to three vases; flowers: be filled with three vases;",
+      "Action": "cell phones: cell phones are sitting;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(cell phones; vases; flowers;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(cell phones: three; vases: three; flowers: some;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(flowers: colorful;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(cell phones: on a table next to three vases; flowers: be filled with three vases;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(cell phones: cell phones are sitting;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "41",
+    "prompt": "three toasters and three handbags are lined up on a kitchen counter, ready to be used.",
+    "result_info": {
+      "Object": " toasters;  handbags;",
+      "Count": " toasters: three;  handbags: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "toasters: toasters and three handbags are lined up on a kitchen counter;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects( toasters;  handbags;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers( toasters: three;  handbags: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(toasters: toasters and three handbags are lined up on a kitchen counter;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  },
+  {
+    "prompt_id": "1201",
+    "prompt": "two people are standing in a park, each holding a cell phone, watching two birds flying in the sky.",
+    "result_info": {
+      "Object": "people; park; cell phone; birds;",
+      "Count": "people: two; park: a; cell phone: two; birds: two;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "people: watching two birds flying in the sky;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people; park; cell phone; birds;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people: two; park: a; cell phone: two; birds: two;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(people: watching two birds flying in the sky;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "82",
+    "prompt": "three backpacks and three bananas are sitting on a picnic blanket in a park, surrounded by trees and birds singing.",
+    "result_info": {
+      "Object": "backpacks;  bananas;  picnic blanket; trees; birds",
+      "Count": "backpacks: three;  bananas: three ;  picnic blanket: a; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "backpacks: beside the banana; picnic blanket: under the banana; trees: around the banana; birds: in the tree",
+      "Action": "birds: singing"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(backpacks;  bananas;  picnic blanket; trees; birds) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(backpacks: three;  bananas: three ;  picnic blanket: a; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(backpacks: beside the banana; picnic blanket: under the banana; trees: around the banana; birds: in the tree) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(birds: singing) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1258",
+    "prompt": "three clocks are ticking on the wall while three sports balls are lying on the floor ready to be used.",
+    "result_info": {
+      "Object": "clocks; wall; sports balls; floor;",
+      "Count": "clocks: three; sports balls: three; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "sports balls: on the floor; wall: behind the sports balls; clocks: on the wall;",
+      "Action": "clocks are ticking; sports balls are lying; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(clocks; wall; sports balls; floor;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(clocks: three; sports balls: three; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(sports balls: on the floor; wall: behind the sports balls; clocks: on the wall;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(clocks are ticking; sports balls are lying; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "340",
+    "prompt": "three potted plants are lined up along one side of the room, while three bicycles are parked against the opposite wall.",
+    "result_info": {
+      "Object": "potted plants; bicycles; ",
+      "Count": "potted plants: three; bicycles: three ; ",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "potted plants: one side of the room; bicycles: against the opposite wall;",
+      "Action": "potted plants: otted plants are lined up; bicycles: bicycles are parked; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(potted plants; bicycles; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(potted plants: three; bicycles: three ; ) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(potted plants: one side of the room; bicycles: against the opposite wall;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(potted plants: otted plants are lined up; bicycles: bicycles are parked; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "744",
+    "prompt": "The person stood in the doorway, wearing a crisp white shirt and a red tie draped casually over their left shoulder.",
+    "result_info": {
+      "Object": "person; doorway; shirt; tie; left shoulder; ",
+      "Count": "person: a; doorway: a; shirt: a; tie: a;",
+      "Color": "shirt: white; tie: red;",
+      "Style": "none",
+      "Spatial": "person: in the doorway; shirt: on the person; tie: draped over person left shoulder;",
+      "Action": "person stood; "
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(person; doorway; shirt; tie; left shoulder; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(person: a; doorway: a; shirt: a; tie: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(shirt: white; tie: red;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(person: in the doorway; shirt: on the person; tie: draped over person left shoulder;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(person stood; ) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1342",
+    "prompt": "three people are sitting at a table with a laptop each, using scissors to cut out images from printed pages to paste onto the laptop screens.",
+    "result_info": {
+      "Object": "people; laptop; scissors; ",
+      "Count": "people: three; laptop: three; scissors: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "three people: at a table with a laptop each;",
+      "Action": "scissors: scissors to cut out images from printed pages to paste onto the laptop screens;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(people; laptop; scissors; ) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(people: three; laptop: three; scissors: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(three people: at a table with a laptop each;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right.",
+      "Action": "<image>\nDoes the given image correctly reflect the action(scissors: scissors to cut out images from printed pages to paste onto the laptop screens;) of each object described in the corresponding prompts? Answer: 0, All actions are wrong. 1, Some of them are wrong. 2, All actions are right."
+    }
+  },
+  {
+    "prompt_id": "1301",
+    "prompt": "circle, Rock in Japanese Kanji, brown, astonishing, water colour",
+    "result_info": {
+      "Object": "Rock in Japanese Kanjo",
+      "Count": "Rock in Japanese Kanjo: a;",
+      "Color": "brown;",
+      "Style": "astonishing, water colour;",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(Rock in Japanese Kanjo) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(Rock in Japanese Kanjo: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Color": "<image>\nDoes the given image correctly reflect the colors(brown;) of each object presented in the corresponding prompts? Answer: 0, All colors are wrong. 1, Some of them are wrong. 2, All corresponding colors numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(astonishing, water colour;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "756",
+    "prompt": "abs, angel, woman, Moebius style",
+    "result_info": {
+      "Object": "abs; angel; woman;",
+      "Count": "none",
+      "Color": "none",
+      "Style": "Moebius style",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(abs; angel; woman;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(Moebius style) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "43",
+    "prompt": "Cosplay, anime, beautiful latina girl, samurai, full body",
+    "result_info": {
+      "Object": "girl; samurai;",
+      "Count": "girl: a; samurai: a;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(girl; samurai;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(girl: a; samurai: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right."
+    }
+  },
+  {
+    "prompt_id": "217",
+    "prompt": "MC Escher concept car, 32k hd photography, very detailed, maximum texture",
+    "result_info": {
+      "Object": "MC Escher concept car;",
+      "Count": "MC Escher concept car: a;",
+      "Color": "none;",
+      "Style": "32k hd photography; very detailed; maximum texture;",
+      "Spatial": "none;",
+      "Action": "none;"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(MC Escher concept car;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(MC Escher concept car: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(32k hd photography; very detailed; maximum texture;) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "1239",
+    "prompt": "the neuromancer, molly, glasses instead of eyes, photography,",
+    "result_info": {
+      "Object": "molly;",
+      "Count": "molly: a;",
+      "Color": "none",
+      "Style": "photography",
+      "Spatial": "none",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(molly;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(molly: a;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Style": "<image>\nDoes the given image correctly reflect the style(photography) described in the corresponding prompts? Answer:  0, All styles are wrong. 1, Not exactly. 2, All styles are right."
+    }
+  },
+  {
+    "prompt_id": "561",
+    "prompt": "two trucks are parked in a parking lot with three books stacked on top of one of the trucks.",
+    "result_info": {
+      "Object": "trucks; books;",
+      "Count": "trucks: two; books: three;",
+      "Color": "none",
+      "Style": "none",
+      "Spatial": "two trucks: in a parking lot; books: on top of one of the trucks;",
+      "Action": "none"
+    },
+    "question_info": {
+      "Object": "<image>\nDoes the given image contain all the objects(trucks; books;) presented in the corresponding prompts? Answer: 0, None objects are included. 1, Some objects are missing. 2, All objects are included.",
+      "Count": "<image>\nDoes the given image correctly reflect the numbers(trucks: two; books: three;) of each object presented in the corresponding prompts? Answer: 0, All counting numbers are wrong. 1, Some of them are wrong. 2, All counting numbers are right.",
+      "Spatial": "<image>\nDoes the given image correctly reflect the spatial relationship(two trucks: in a parking lot; books: on top of one of the trucks;) of each object described in the corresponding prompts? Answer:  0, All spatial relationships are wrong. 1, Some of them are wrong. 2, All spatial relationships are right."
+    }
+  }
+]
