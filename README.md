@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # EvalAlign
-=======
+
 # EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models
 
 ## Contents
@@ -132,4 +132,4 @@ You will get a Object, Count，Spatial，Action, Color, Style.The scores of the 
 ```
 ## Acknowledgement
 - [Llava](https://github.com/haotian-liu/LLaVA): Our model is trained on llava and has excellent multimodal reasoning ability！
->>>>>>> ddda7c2 (EvalAlign initial)
+
