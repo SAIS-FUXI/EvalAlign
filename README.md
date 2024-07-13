@@ -27,7 +27,7 @@ Please download the [Model weight](https://huggingface.co/Fudan-FUXI/evalalign-v
 
 ## Evaluation
 ### Image Faithfulness evaluation
-You must use the [prompt](https://github.com/SAIS-FUXI/EvalAlign/configs/test_faithfulness_prompt.json) provide about faithfulness to generate some images on your own model or open source model.The file name of the image needs to be consistent with prompt_id.
+You must use the [prompt]([https://github.com/SAIS-FUXI/EvalAlign/configs](https://github.com/SAIS-FUXI/EvalAlign/tree/main/configs)/test_faithfulness_prompt.json) provide about faithfulness to generate some images on your own model or open source model.The file name of the image needs to be consistent with prompt_id.
 ```shell
   {
     "prompt_id": "259_2_2",
@@ -72,7 +72,7 @@ You will get a body, hand，face，object, common, The scores of the five dimens
 }
 ```
 ### Text-to-Image Alignment evaluation
-Same as Faithfulness.You must use the [prompt](https://github.com/SAIS-FUXI/EvalAlign/configs/test_alignment_prompt.json) provide about faithfulness to generate some images on your own model or open source model.The file name of the image needs to be consistent with prompt_id.
+Same as Faithfulness.You must use the [prompt]([https://github.com/SAIS-FUXI/EvalAlign/configs](https://github.com/SAIS-FUXI/EvalAlign/tree/main/configs)/test_alignment_prompt.json) provide about faithfulness to generate some images on your own model or open source model.The file name of the image needs to be consistent with prompt_id.
 ```shell
   {
     "prompt_id": "99",
