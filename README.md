@@ -5,7 +5,7 @@
 
 ## Contents
 - [Install](#install)
-- - [EvalAlign Dataset](#evalalign-dataset)
+- [EvalAlign Dataset](#evalalign-dataset)
 - [EvalAlign Weights](#evalalign-weights)
 - [Evaluation](#evaluation)
 
@@ -28,8 +28,11 @@ The human feedback dataset on evaluating synthesized images, which is also the f
 
 ## EvalAlign Weights
 We provide two version of EvalAlign evaluation models on huggingface:
+
  [EvalAlign-v1.0-13B](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b)
+ 
  [EvalAlign-v1.0-34B](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-34b)
+ 
 If you have sufficient computational resources, we strongly recommend using EvalAlign-v1.0-34B for superior evaluation performance. However, if resources are limited, the 13B version of EvalAlign-v1.0 also provides acceptable evaluation capabilities.
 ## Evaluation
 ### Image Faithfulness evaluation
