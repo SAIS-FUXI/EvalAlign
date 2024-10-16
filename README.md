@@ -5,6 +5,7 @@
 
 ## Contents
 - [Install](#install)
+- - [EvalAlign Dataset](#evalalign-dataset)
 - [EvalAlign Weights](#evalalign-weights)
 - [Evaluation](#evaluation)
 
@@ -21,10 +22,15 @@ conda activate evalalign
 pip install --upgrade pip 
 pip install -e .
 ```
+## EvalAlign Dataset
+The human feedback dataset on evaluating synthesized images, which is also the finetuning data of the EvalAlign evaluation models, has been released on [Huggingface](https://huggingface.co/datasets/Fudan-FUXI/EvalAlign-datasets).
+
 
 ## EvalAlign Weights
-Please download the [Model weight](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b) from huggingface.
-
+We provide two version of EvalAlign evaluation models on huggingface:
+ [EvalAlign-v1.0-13B](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b)
+ [EvalAlign-v1.0-34B](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-34b)
+If you have sufficient computational resources, we strongly recommend using EvalAlign-v1.0-34B for superior evaluation performance. However, if resources are limited, the 13B version of EvalAlign-v1.0 also provides acceptable evaluation capabilities.
 ## Evaluation
 ### Image Faithfulness evaluation
 You must use the [prompt](https://github.com/SAIS-FUXI/EvalAlign/tree/main/configs/test_faithfulness_prompt.json) provide about faithfulness to generate some images on your own model or open source model.The file name of the image needs to be consistent with prompt_id.
