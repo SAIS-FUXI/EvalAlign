@@ -139,7 +139,7 @@ You will get a Object, Count，Spatial，Action, Color, Style.The scores of the 
 @article{tan2024evalalign,
   title={EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models},
   author={Tan, Zhiyu and Yang, Xiaomeng and Qin, Luozheng and Yang, Mengping and Zhang, Cheng and Li, Hao},
-  journal={arXiv preprint arXiv:??},
+  journal={arXiv preprint arXiv:2406.16562},
   year={2024},
   institution={Shanghai Academy of AI for Science and Carnegie Mellon University and Fudan University},
 }
