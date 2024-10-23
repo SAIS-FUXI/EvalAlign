@@ -5,8 +5,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2408.02629-b31b1b.svg)](https://arxiv.org/abs/2406.16562)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://sais-fuxi.github.io/projects/evalalign/)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b)
-[![HF Datasets]]([https://openbayes.com/console/public/tutorials/UOeU0ywVxl7](https://huggingface.co/datasets/Fudan-FUXI/EvalAlign-datasets)) 
+[![Hugging Face weight](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b)
+
 ## Contents
 - [Install](#install)
 - [EvalAlign Dataset](#evalalign-dataset)
