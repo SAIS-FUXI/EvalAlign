@@ -3,7 +3,7 @@
 
 # EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models
 
-[![arXiv](https://img.shields.io/badge/arXiv-2408.02629-b31b1b.svg)](https://arxiv.org/abs/2406.16562)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.16562-b31b1b.svg)](https://arxiv.org/abs/2406.16562)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://sais-fuxi.github.io/projects/evalalign/)
 [![Hugging Face weight](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Weights-yellow)](https://huggingface.co/Fudan-FUXI/evalalign-v1.0-13b)
 [![HF Datasets](https://img.shields.io/static/v1?label=Datasets&message=datasets&color=green)](https://huggingface.co/datasets/Fudan-FUXI/EvalAlign-datasets) 
